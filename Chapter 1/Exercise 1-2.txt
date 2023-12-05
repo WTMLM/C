@@ -1,0 +1,5 @@
+When using \c,
+warning: unknown escape sequence: '\c'
+
+when running the executable, it prints
+hello, worldc
