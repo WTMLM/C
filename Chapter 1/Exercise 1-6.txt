@@ -1,0 +1,3 @@
+compile and run Exercise 1-6.c 
+any input + Enter will print a 1
+On windows cmd, Ctrl-z + Enter will print a 0
